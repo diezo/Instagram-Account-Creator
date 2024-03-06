@@ -1,10 +1,8 @@
 # Instagram Account Creator 2024
 An Instagram **Account Creator** written in Python. Tested it thoroughly and everything's working.
 
-![](https://raw.githubusercontent.com/diezo/Instagram-Account-Creator/main/assets/Console.png)
-
 ## Download
-Download the code from [here](https://sonii.gumroad.com/l/account-creator).
+Download the code from [here](https://sonii.gumroad.com/l/account-creator/EARLY20).
 
 ## Run
     $ python main.py
