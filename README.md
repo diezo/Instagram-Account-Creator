@@ -1,20 +1,16 @@
 # Instagram Account Creator
-100% Working Instagram Account Creator, Written in Python.
+An Instagram **Account Creator** written in Python. Tested it thoroughly and everything's working.
 
 ![](https://raw.githubusercontent.com/diezo/Ensta/master/assets/colorful-instagram-icon-vintage-style-art-vector-illustration_836950-30.jpg)
 
 ## Download
-Download all the code from [here](https://sonii.gumroad.com/l/account-creator).
+Download the code from [here](https://sonii.gumroad.com/l/account-creator).
 
-## Create Accounts
-Python [**3.10**](https://www.python.org/downloads/) or later is required.
-
-```
-$ python main.py
-```
+## Run
+    $ python main.py
 
 ## Output
-You'll get login credentials of the accounts created.
+You'll get login credentials of the account created.
 
 ```python
 $ Username: john828
