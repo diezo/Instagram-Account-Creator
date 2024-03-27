@@ -20,9 +20,11 @@ $ SessionID: jsowoaldnsis
 ```
 
 ## Features
-- Auto generates email addresses.
-- Auto generates account information such as name, age, etc.
-- Saves all accounts in <ins>**accounts.txt**</ins>
+- Auto-generates **DuckDuckGo Private Email Addresses**.
+- Auto-fetches **OTP** from **ProtonMail Inbox**.
+- Auto-updates **Profile Picture** to an **AI-Generated Human Face**.
+- Sets a random **AI-Generated Biography** on account creation.
+- Saves all accounts inside <ins>**accounts.txt**</ins>
 
 ## Legal
 This tool is for educational purposes only, and to understand the working of such APIs. Use of such tools may violate Instagram's Community Guidelines. Please use it responsibly.
